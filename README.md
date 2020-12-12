@@ -183,7 +183,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 
 ## Rust
 - [font-rs](https://github.com/google/font-rs) - The fastest font renderer in the world.
-- [RustType](https://github.com/redox-os/rusttype) - Pure Rust alternative to libraries like FreeType. 
+- [font-kit](https://github.com/servo/font-kit) - A cross-platform font loading library.
+- [RustType](https://github.com/redox-os/rusttype) - Pure Rust alternative to libraries like FreeType.
 - [Pathfinder](https://github.com/pcwalton/pathfinder) - Fast, practical GPU rasterizer for OpenType fonts.
 - [Font toolbox](https://github.com/bodoni/font)
 - [Parser for OpenType fonts](https://github.com/bodoni/opentype)
@@ -264,6 +265,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 - [The A-Z of typographic terms](https://www.fontsmith.com/blog/2016/06/29/the-a-z-of-typographic-terms) - Typography terms in images.
 - [Emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈.
 - [Emoji Wrap Monthly Newsletter](http://emojiwrap.com) - Bite-sized summary of what's happening in the world of emoji and Unicode.
+- [Crypto Puzzles](https://github.com/2d4d/crypto_puzzles) - Functions for encryption and stegonagraphy as puzzles or brain teasers. [Online demo](http://rupp.de/crypto_puzzles/crypto_puzzles_web.py).
 - [FDBP](http://silnrsi.github.io/FDBP/) - Font Development Best Practice documentation.
 - [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) - Explore and convert Unicode.
 - [unicodes](https://github.com/jessetane/unicodes) - Browse all of the unicodes.
